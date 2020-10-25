@@ -17,5 +17,5 @@ I will create N-gram profile of the corpus of selected Wikipedia articles2.
 I will: (1) extract all the unigrams,
 (2) compute the frequency of each unigram per page and also over the corpus, and 
 (3) rank the unigram based on these frequencies. As a corpus for this project, I will be provided around 1GB of dataset selected from Wikipedia articles.
-My computing environment will be MapReduce.
+My computing environment will be MapReduce
 
